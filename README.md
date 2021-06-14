@@ -1,7 +1,7 @@
 # Ola, Git e GitHub
- Primeiro Repositorio do git e GitHub
+ **Primeiro Repositorio do git e GitHub**
 
 
 Repositorio criado durante uma aula ao vivo
 
-Essa linha eu adicionei directamente do site
+Essa linha eu adicionei directamente do *site*
